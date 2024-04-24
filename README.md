@@ -33,10 +33,6 @@ The word cloud represents the prominence of keywords within the documents relate
 <img width="600" alt="textresult" src="https://github.com/mhadev0703/20_newsgroups_project/assets/145727959/a30e5b49-f519-4b9e-be6e-27f168b9809c">
 
 Displayed are the top 10 documents retrieved in response to the query "NASA space mission".
-## Installation and Usage
-- Install required Python libraries: `pip install -r requirements.txt` (ensure you have a `requirements.txt` file with all necessary libraries).
-- Run the main script: `python main.py`.
-- Follow the command line prompts to enter a search query.
 
 ## Python Libraries Used
 - scikit-learn
